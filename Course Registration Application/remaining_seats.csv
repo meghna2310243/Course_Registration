@@ -1,0 +1,27 @@
+S.No,Course Name,Course Code,Faculty ID,Remaining Seats
+1,Introduction to CS,CICS101,ICSA,7
+2,Introduction to CS,CICS101,ICSB,7
+3,Introduction to CS,CICS101,ICSC,7
+4,Prog. Fundamentals,CPF102,PFA,7
+5,Prog. Fundamentals,CPF102,PFB,7
+6,Prog. Fundamentals,CPF102,PFC,7
+7,Data Structures,CDS103,DSA,7
+8,Data Structures,CDS103,DSB,0
+9,Data Structures,CDS103,DSC,7
+10,Database Management,CDBMS104,DBMSA,7
+11,Database Management,CDBMS104,DBMSB,0
+12,Database Management,CDBMS104,DBMSC,7
+13,Operating Systems,COS105,OSA,4
+14,Operating Systems,COS105,OSB,6
+15,Operating Systems,COS105,OSC,1
+16,Computer Networks,CCN106,CNA,3
+17,Computer Networks,CCN106,CNB,6
+18,Computer Networks,CCN106,CNC,6
+19,Web Development,EWD107,WDA,6
+20,Web Development,EWD107,WDB,5
+21,Machine Learning,EML108,MLA,7
+22,Machine Learning,EML108,MLB,0
+23,Artificial Intelligence,EAI109,AIA,7
+24,Artificial Intelligence,EAI109,AIB,7
+25,Cybersecurity,ECS110,CSA,5
+26,Cybersecurity,ECS110,CSB,7

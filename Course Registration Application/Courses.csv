@@ -1,0 +1,27 @@
+
+1,Introduction to CS,CICS101,ICSA,4,NA
+2,Introduction to CS,CICS101,ICSB,4,NA
+3,Introduction to CS,CICS101,ICSC,4,NA
+4,Prog. Fundamentals,CPF102,PFA,4,CICS101
+5,Prog. Fundamentals,CPF102,PFB,4,CICS101
+6,Prog. Fundamentals,CPF102,PFC,4,CICS101
+7,Data Structures,CDS103,DSA,4,CPF102
+8,Data Structures,CDS103,DSB,4,CPF102
+9,Data Structures,CDS103,DSC,4,CPF102
+10,Database Management,CDBMS104,DBMSA,4,CPF102
+11,Database Management,CDBMS104,DBMSB,4,CPF102
+12,Database Management,CDBMS104,DBMSC,4,CPF102
+13,Operating Systems,COS105,OSA,4,CDS103
+14,Operating Systems,COS105,OSB,4,CDS103
+15,Operating Systems,COS105,OSC,4,CDS103
+16,Computer Networks,CCN106,CNA,4,CDS103
+17,Computer Networks,CCN106,CNB,4,CDS103
+18,Computer Networks,CCN106,CNC,4,CDS103
+19,Web Development,EWD107,WDA,2,CPF102
+20,Web Development,EWD107,WDB,2,CPF102
+21,Machine Learning,EML108,MLA,2,CDS103
+22,Machine Learning,EML108,MLB,2,CDS103
+23,Artificial Intelligence,EAI109,AIA,2,CDS103
+24,Artificial Intelligence,EAI109,AIB,2,CDS103
+25,Cybersecurity,ECS110,CSA,2,COS105
+26,Cybersecurity,ECS110,CSB,2,COS105
